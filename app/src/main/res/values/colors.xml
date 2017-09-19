@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF3D00</color>
+    <color name="colorPrimaryDark">#DD2C00</color>
+    <color name="colorAccent">#FF3D00</color>
+    <color name="background_color">#EEEEEE</color>
+    <color name="white_greyish">#EFEBE9</color>
+    <color name="agendacolor">#FF9E80</color>
+    <color name="black">#000000</color>
+    <color name="white">#fff</color>
+    <color name="blue">#2979FF</color>
+    <color name="grey">#9E9E9E</color>
+
+
+
+</resources>
